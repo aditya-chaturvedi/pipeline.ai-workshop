@@ -1,3 +1,5 @@
+# This repo is a POINT-IN-TIME COPY OF [**Pipeline.ai workshop**](https://github.com/aditya-chaturvedi/workshop)].
+
 # Attend our Free, Online, Full-Day Workshop!
 You must register on [**Eventbrite**](https://www.eventbrite.com/e/full-day-workshop-kubeflow-gpu-kerastensorflow-20-tf-extended-tfx-kubernetes-pytorch-xgboost-tickets-63362929227).  
 
